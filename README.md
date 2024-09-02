@@ -1,5 +1,5 @@
 # Image Encryption/Decryption Tool
-PRODIGY_CS_02
+
 Description
 A simple Python tool for encrypting and decrypting image files using a bitwise XOR operation with a user-defined key. 
 Supports both JPEG and PNG formats.
