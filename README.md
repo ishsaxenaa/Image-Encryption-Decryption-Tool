@@ -18,3 +18,5 @@ Run the application
 Select an image file.
 Enter a valid numerical key(Eg:123)
 Save the processed image.
+![3](https://github.com/user-attachments/assets/8796dce2-4499-4ce8-badd-7b029bc46231)
+![4](https://github.com/user-attachments/assets/cbe01644-c97b-48f0-8e42-0c5fd21b7109)
